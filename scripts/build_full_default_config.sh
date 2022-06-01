@@ -1,0 +1,1 @@
+python train_copied_from_tools.py configs/resnet/resnet18_8xb32_in1k.py
